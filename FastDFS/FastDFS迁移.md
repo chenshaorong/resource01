@@ -51,7 +51,8 @@
 >
 > 同步完成之后切换DNS的解析即可  
 >
-> **rsync迁移fastdfs脚本**  
+
+**rsync迁移fastdfs脚本**  
 
 ```
 #!/bin/bash

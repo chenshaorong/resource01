@@ -255,9 +255,9 @@ server {
 > - 多组，扩充容量
 >
 > 附上两张图片:   
-> !["图一"](https://raw.githubusercontent.com/chenshaorong/resource01/master/FastDFS/fastdfs01.png "csr")  
+> ![图一](https://raw.githubusercontent.com/chenshaorong/resource01/master/FastDFS/fastdfs01.png "csr")  
 >
-> !["图二"](https://raw.githubusercontent.com/chenshaorong/resource01/master/FastDFS/fastdfs02.png "csr")  
+> ![图二](https://raw.githubusercontent.com/chenshaorong/resource01/master/FastDFS/fastdfs02.png "csr")  
 >
 
 ```

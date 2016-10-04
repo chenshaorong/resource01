@@ -47,7 +47,9 @@ make && make install
 ./configure --prefix /usr/local/svn --with-apr=/usr/local/apr --with-apr-util=/usr/local/apr-util --with-zlib=/usr/local/zlib
 # 出现下图错误
 ```
-!["error"](https://raw.githubusercontent.com/chenshaorong/resource01/master/SVN/01.png "csr")
+
+![error](https://raw.githubusercontent.com/chenshaorong/resource01/master/SVN/01.png "csr")
+
 ```
 # 按照提示下载解压sqlite-amalgamation并重命名+移动到指定位置
 unzip sqlite-amalgamation-3071501.zip
